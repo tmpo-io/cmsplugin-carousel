@@ -1,0 +1,7 @@
+Django >= 1.8
+django-cms >= 3.2
+django-sekizai >= 0.4.2
+easy_thumbnails >= 1.0
+django-filer >= 1.0.0
+cmsplugin-filer==1.0.1
+django-appconf

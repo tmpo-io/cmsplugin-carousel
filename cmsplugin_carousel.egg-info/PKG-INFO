@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: cmsplugin-carousel
+Version: 0.0.1
+Summary: Carousel for django-cms with filer imager
+Home-page: http://github.com/tmpo-io/cmsplugin-carousel
+Author: Oriol Collell
+Author-email: o@tmpo.io
+License: BSD
+Description: CMSPlUGIN CAROUSEL
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet :: WWW/HTTP
